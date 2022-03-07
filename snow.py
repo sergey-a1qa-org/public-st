@@ -1,4 +1,4 @@
 import streamlit as st
 
-im st.button:
+if st.button:
   st.snow
